@@ -23,7 +23,8 @@ That's why Chatsundere asks you for an API key — it's not a subscription to Ch
 
 ## How Does Payment Work? 💰
 
-You pay **the provider** (NanoGPT, OpenRouter, Ollama, etc.) for actual model usage — not Chatsundere. The cost depends on:
+You pay **the provider** (NanoGPT, OpenRouter, Ollama, etc.) for actual model usage — not Chatsundere. 
+The cost depends on:
 
 - **Which model you use** — every model has a different price. Smaller and older models are very cheap; the largest and newest ones cost more
 - **How much you write and read** — you're charged by volume of text (tokens), both for your messages and for the responses
