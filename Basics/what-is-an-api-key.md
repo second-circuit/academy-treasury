@@ -10,7 +10,7 @@ author: Ann
 date_created: 2026-08-12
 date_updated: 2026-08-12
 featured: false
-status: draft
+status: published
 ---
 
 # What Is an API Key (and Why It Matters)? 🔑
