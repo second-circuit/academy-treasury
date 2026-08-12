@@ -1,5 +1,5 @@
 ---
-title: What Is an API Key (and Why It Matters)?
+title: What Is an API Key (and Why It Matters)?
 description: A beginner-friendly guide to API keys — what they are, how to keep them safe, and where to get one for NanoGPT, OpenRouter, and Ollama Cloud.
 tags:
   - api-key
