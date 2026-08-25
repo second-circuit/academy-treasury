@@ -6,7 +6,7 @@ tags:
   - foundations
   - extended-mind
   - philosophy
-author: Sofia Tidesdottir / Second Circuit
+author: Sofia  / Second Circuit
 date_created: 2026-08-25
 date_updated: 2026-08-25
 featured: false
